@@ -19,10 +19,12 @@ These websites contain multiple games.
 | [Mattle](https://mattle.online/) | Free to play | Iconography can be confusing on some games. |
 | [Happy Meeple](https://www.happymeeple.com/en/) | Free to play, with limits (you need in-game currency, but this is generated automatically at regular intervals) | Focuses on solo and 2 player games |
 | [Boiteajeux](http://www.boiteajeux.net/) | Free to play ||
+| [VIP Games](https://vipgames.com/) | Free to play in custom rooms and single-player, freemium matchmaking and additional services - chat, VIP, images ||  
 | [Boardgame core](http://play.boardgamecore.net) | Free to play ||
 | [Super Duper Games](http://superdupergames.org/) | Free to play | Not recommended for real time play.|
 | [Netgames.io](https://netgames.io/games/) | Free to play ||
 | [Yucata](https://www.yucata.de/en) | Free to play ||
+| [VIP Backgammon](https://vipbackgammon.com/) | Free Backgammon custom games and practice with computer, freemium lobby matchmaking ||    
 | [Boardgame core](http://play.boardgamecore.net) | Free to play ||
 | [BrettspielWelt](http://www.brettspielwelt.de/Spiele/) | Free to play ||
 | [Free Board Games](https://www.freeboardgames.org/) | Free to play ||
@@ -58,6 +60,7 @@ These games are easy to understand even if nobody has played before.
 | --- | --- | --- | --- |
 | [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/) | | 5-10 | https://www.boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york |
 | [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams) | | 2-6 | https://www.boardgamegeek.com/boardgame/3359/anagrams |
+| [VIP Spades](https://vipspades.com/) | Free to play with friends and computer, in-game currency for matchmaking and additional services ||
 | [Boggle](http://ewordchallenge.scienceontheweb.net/) | [Serpentine](https://serpentinegame.com/), [Wordmine](https://www.cyberspaces.app/wordmine)| 2+ | [https://boardgamegeek.com/boardgame/1293/boggle](https://boardgamegeek.com/boardgame/1293/boggle) |
 | [Broken Picture Phone](https://www.brokenpicturephone.com/) | [Drawphone](https://drawphone.tannerkrewson.com/), [Drawception](https://drawception.com/), [Out of Context](https://www.outofcontext.party/) | | |
 | [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
@@ -135,7 +138,7 @@ These games are best if at least one person knows the game already and can expla
 ## Other ideas
 - [Tabletop games that can be adapted for remote play](remote-friendly-print-games.md)
 - [Freeze-dried Game Pack](https://kevan.org/fdgp/) - a collection of games that use common components and can be explained in less than 100 words
-- [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
+- [Improve games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 - [The Wiki Game](https://www.thewikigame.com/)
 
 ## Contribute to this list
